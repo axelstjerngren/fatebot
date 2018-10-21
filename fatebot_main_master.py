@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import numpy
 import string
-import gameload
+import gameload_master
 
 token = 'bot token goes here'
 bot = commands.Bot(command_prefix='.')
